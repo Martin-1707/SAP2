@@ -1,0 +1,12 @@
+{
+  "requires": {
+    "db": {
+      "kind": "hana",
+      "vcap": {
+        "label": "hana",
+        "plan": "hdi-shared",
+        "name": "energy-hdi"
+      }
+    }
+  }
+}
